@@ -1,0 +1,19 @@
+{
+  "name": "react-in-angular-16-directive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boeriksson/ReactInAngular16Directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boeriksson/ReactInAngular16Directive/issues"
+  },
+  "homepage": "https://github.com/boeriksson/ReactInAngular16Directive#readme"
+}
